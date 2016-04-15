@@ -1,0 +1,8 @@
+A console based MCQ system using C++
+
+Requirments----
+1.Input Questions to Ques.txt
+2.Input Answers to Ans.txt
+3.Input Multiple Choices to mcq.txt
+
+Separate Questions and Answers and Options by #
